@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="3.38.126.220" id="5c5b436c-ffde-4e78-821a-f7a3fe7fc739" keyPath="C:\Users\se eun\Downloads\sconAWS-Key.ppk" port="22" customName="scon-aws" nameFormat="CUSTOM" username="ubuntu" useOpenSSHConfig="true">
+        <option name="customName" value="scon-aws" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
